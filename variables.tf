@@ -1,4 +1,6 @@
-# ---------- GENERAL
+################################################################################
+# Secret Manager 
+################################################################################
 
 variable "company_name" {
   type        = string
@@ -25,8 +27,6 @@ variable "module_enabled" {
   default     = ""
 }
 
-
-# ---------- SECRETS
 
 variable "secret_name" {
   type        = string
