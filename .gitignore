@@ -1,0 +1,10 @@
+.DS_Store
+.idea
+.vscode
+**/.pass.vault
+**/local_start.sh
+./*.txt
+*.tmp
+
+**/.terraform.lock.hcl
+**/.terraform
